@@ -26,24 +26,6 @@ El informe de Power BI incluye las siguientes visualizaciones principales:
 * **Modelado de Datos**: Se utilizó Power Query para la limpieza y preparación inicial de los datos. Se conectó y transformó el archivo de origen para un análisis eficiente.
 * **Visualización**: El dashboard fue creado en **Power BI Desktop** para generar las visualizaciones interactivas y dinámicas.
 
----
-
-### CASO 2 - Dashboard de Ventas y Productos 📈
-
-Este proyecto presenta un dashboard interactivo creado en Power BI para el análisis detallado de ventas y productos. Permite visualizar el rendimiento de ventas por tipo de producto y cliente.
-
-## 🎯 Objetivo del Proyecto
-
-El objetivo principal de este proyecto es ofrecer una herramienta de análisis visual que permita a la empresa entender mejor su desempeño en ventas. Se busca identificar qué tipo de productos tienen mayor éxito y cuáles son los clientes más importantes para optimizar la estrategia comercial.
-
-## 📊 Vistas Clave del Dashboard
-
-El informe de Power BI incluye las siguientes visualizaciones principales:
-
-* **Ventas por Mes**: Un gráfico de barras que muestra el total de ventas a lo largo del año.
-* **Ventas por Tipo de Producto**: Un gráfico circular o de barras que permite identificar el porcentaje de ventas que corresponde a cada tipo de producto.
-* **Ventas por Cliente**: Un gráfico que muestra el total de ventas por cliente, ayudando a identificar a los clientes con mayor volumen de compra.
-* **KPIs de Resumen**: Tarjetas de información clave que muestran el total de ventas, el número de clientes y la cantidad de productos vendidos.
 
 ## 🛠️ Herramientas y Tecnologías Utilizadas
 
