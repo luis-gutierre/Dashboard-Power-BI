@@ -20,12 +20,7 @@ El informe de Power BI incluye las siguientes visualizaciones principales:
 * **Rendimiento por País**: Un análisis de la utilidad y el margen, segmentado por país, para comparar el desempeño en diferentes mercados.
 * **Análisis por Segmento y Marca**: Visualizaciones que muestran la utilidad y el margen para cada segmento de negocio (Socios, Educación, Enterprise) y por marca (Birop, Rommyn, Yeri).
 
-## 🛠️ Herramientas y Tecnologías Utilizadas
-
-* **Fuente de Datos**: El conjunto de datos financieros fue proporcionado en formato Excel.
-* **Modelado de Datos**: Se utilizó Power Query para la limpieza y preparación inicial de los datos. Se conectó y transformó el archivo de origen para un análisis eficiente.
-* **Visualización**: El dashboard fue creado en **Power BI Desktop** para generar las visualizaciones interactivas y dinámicas.
-
+ 
 
 ## 🛠️ Herramientas y Tecnologías Utilizadas
 
