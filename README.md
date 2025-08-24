@@ -2,7 +2,7 @@
 
 ---
 
-### 1. Dashboard-globalstore.pbix - Informe de Ventas y Finanzas Anual 💰
+### CASO 1 - Informe de Ventas y Finanzas Anual 💰
 
 Este proyecto presenta un dashboard interactivo en Power BI diseñado para analizar el rendimiento financiero de una empresa, con un enfoque en las ventas, costos y utilidad anual.
 
@@ -28,7 +28,7 @@ El informe de Power BI incluye las siguientes visualizaciones principales:
 
 ---
 
-### 2. Dashboard-Finanzas.pbix - Dashboard de Ventas y Productos 📈
+### CASO 2 - Dashboard de Ventas y Productos 📈
 
 Este proyecto presenta un dashboard interactivo creado en Power BI para el análisis detallado de ventas y productos. Permite visualizar el rendimiento de ventas por tipo de producto y cliente.
 
