@@ -21,11 +21,5 @@ El informe de Power BI incluye las siguientes visualizaciones principales:
 * **Modelado de Datos**: Se utilizó Power Query para la limpieza, transformación y carga del archivo de origen. Se realizaron los pasos necesarios para preparar los datos para el análisis en Power BI.
 * **Visualización**: El dashboard fue construido utilizando **Power BI Desktop**, aprovechando sus capacidades de visualización e interactividad para crear un informe dinámico y fácil de usar.
 * **Repositorio**: GitHub se utilizó para almacenar y versionar el proyecto, incluyendo el archivo `.pbix` y la documentación (`README.md`).
-Instrucciones para el README.md final:
-Copia todo el texto que te he proporcionado.
 
-Pégalo en el archivo README.md de tu repositorio de GitHub.
 
-El separador (---) creará una línea horizontal que dividirá de forma clara los dos proyectos, mejorando la legibilidad.
-
-El título principal # Mis Proyectos de Análisis de Datos en Power BI 📊 unifica ambos proyectos bajo un mismo tema.
